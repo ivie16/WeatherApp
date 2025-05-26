@@ -6,7 +6,7 @@ A sleek and simple weather app built using **HTML**, **CSS**, and **JavaScript**
 
 ---
 
-## 🖼️ Preview
+## Preview
 
 ![image](https://github.com/user-attachments/assets/81b7e6fc-3370-44a7-b1ae-decd0ae09284)
 ![image](https://github.com/user-attachments/assets/ef74fff6-8ed0-4cec-8fc9-9d08aad2100f)
@@ -15,7 +15,7 @@ A sleek and simple weather app built using **HTML**, **CSS**, and **JavaScript**
 
 ---
 
-## 📦 Features
+## Features
 
 -  Search for any city worldwide
 -  Displays temperature in Celsius
@@ -27,7 +27,7 @@ A sleek and simple weather app built using **HTML**, **CSS**, and **JavaScript**
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – structure
 - **CSS3** – styling
@@ -35,8 +35,10 @@ A sleek and simple weather app built using **HTML**, **CSS**, and **JavaScript**
 - **OpenWeatherMap API** – weather data
 
 ---
+##  Live Demo
 
-## 🚀 How to Run the Project
+[Click here to view the Weather App](https://viesky.netlify.app/)
+## How to Run the Project
 
 1. **Clone the repository:**
 
